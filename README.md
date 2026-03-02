@@ -2,13 +2,6 @@
 
 An **fs** library for the browser that lets you store data using an API similar to Node's [fs module](http://nodejs.org/api/fs.html). It's powered by [IndexedDB](http://www.w3.org/TR/IndexedDB/), a browser database.
 
-[![npm](https://img.shields.io/npm/v/indexeddb-fs.svg)](https://www.npmjs.com/package/indexeddb-fs)
-![types](https://img.shields.io/badge/types-typescript%20%7C%20flow-blueviolet)
-[![minzip](https://img.shields.io/bundlephobia/minzip/indexeddb-fs.svg)](https://www.npmjs.com/package/indexeddb-fs)
-[![downloads per month](https://img.shields.io/npm/dm/indexeddb-fs.svg)](https://www.npmjs.com/package/indexeddb-fs)
-[![issues](https://img.shields.io/github/issues/playerony/indexeddb-fs.svg)](https://www.npmjs.com/package/indexeddb-fs)
-[![license](https://img.shields.io/github/license/playerony/indexeddb-fs)](https://www.npmjs.com/package/indexeddb-fs)
-
 ## Motivation
 
 Other solutions I found didn't work well. They lacked validation and didn't create directories properly.
